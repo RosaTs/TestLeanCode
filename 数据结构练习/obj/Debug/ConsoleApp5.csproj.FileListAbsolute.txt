@@ -1,0 +1,14 @@
+C:\Users\Yon\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Yon\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Yon\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Yon\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Yon\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Yon\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Yon\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Yon\Desktop\数据结构练习\数据结构练习\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Yon\Desktop\数据结构练习\数据结构练习\bin\Debug\ConsoleApp5.exe
+C:\Users\Yon\Desktop\数据结构练习\数据结构练习\bin\Debug\ConsoleApp5.pdb
+C:\Users\Yon\Desktop\数据结构练习\数据结构练习\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Yon\Desktop\数据结构练习\数据结构练习\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Yon\Desktop\数据结构练习\数据结构练习\obj\Debug\ConsoleApp5.exe
+C:\Users\Yon\Desktop\数据结构练习\数据结构练习\obj\Debug\ConsoleApp5.pdb
